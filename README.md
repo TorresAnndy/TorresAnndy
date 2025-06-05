@@ -45,7 +45,6 @@ Además, estoy explorando y aprendiendo continuamente sobre redes, servidores ca
   </a>
 </p>
 
-
 ---
 
 ## 🔧 Proyectos Destacados
@@ -62,6 +61,7 @@ Además, estoy explorando y aprendiendo continuamente sobre redes, servidores ca
 
 - Profundizar en **ciberseguridad y redes** para crear infraestructuras seguras y eficientes.  
 - Seguir aprendiendo y mejorando como desarrollador backend y administrador de sistemas.
+
 ---
 
 ## 📚 Mi rutina de aprendizaje y vida
