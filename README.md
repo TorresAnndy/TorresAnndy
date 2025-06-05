@@ -13,9 +13,6 @@ Además, estoy explorando y aprendiendo continuamente sobre redes, servidores ca
 ## 🚀 Tecnologías y Herramientas
 
 <p>
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
   <a href="https://laravel.com/docs" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/laravel.svg" alt="Laravel" width="40" height="40" style="filter: invert(1)"/>
   </a>
