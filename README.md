@@ -4,7 +4,7 @@
 
 ## 💻 Sobre mí
 
-Soy estudiante de 5to semestre de Ingeniería en Tecnologías de la Información, apasionado por el desarrollo backend, redes y ciberseguridad. Actualmente trabajo como **Junior Backend Developer** en el proyecto **Axioma**, un sistema POS desarrollado en **PHP con Laravel**, donde colaboro en la creación de una API REST robusta y escalable.
+Soy estudiante de 6to semestre de Ingeniería en Tecnologías de la Información, apasionado por el desarrollo backend, redes y ciberseguridad. Actualmente trabajo como **Junior Backend Developer** en el proyecto **Axioma**, un sistema POS desarrollado en **PHP con Laravel**, donde colaboro en la creación de una API REST robusta y escalable.
 
 Además, estoy explorando y aprendiendo continuamente sobre redes, servidores caseros y arquitectura de software para fortalecer mis habilidades tanto prácticas como teóricas.
 
