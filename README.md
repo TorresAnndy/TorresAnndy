@@ -1,61 +1,118 @@
-# 👋 ¡Hola! Soy Andy
+# 👋 Hi, I'm Andy 👨‍💻
+
+💡 *Backend Developer | IT Engineering Student | Networking & Cybersecurity Enthusiast*
 
 ---
 
-## 💻 Sobre mí
+## 🚀 About Me
 
-Soy estudiante de 6to semestre de Ingeniería en Tecnologías de la Información, apasionado por el desarrollo backend, redes y ciberseguridad. Actualmente trabajo como **Junior Backend Developer** en el proyecto **Axioma**, un sistema POS desarrollado en **PHP con Laravel**, donde colaboro en la creación de una API REST robusta y escalable.
+I'm a **6th-semester Information Technology Engineering student** with a strong focus on **backend development**, **software architecture**, **networks**, and **cybersecurity**.
 
-Además, estoy explorando y aprendiendo continuamente sobre redes, servidores caseros y arquitectura de software para fortalecer mis habilidades tanto prácticas como teóricas.
+Currently, I work as a **Junior Backend Developer** on **Axioma**, a **POS (Point of Sale) system** built with **PHP & Laravel**, where I contribute to building and maintaining a **robust and scalable REST API**.
 
----
-
-## 🚀 Tecnologías y Herramientas
-
-<p>
-  <a href="https://laravel.com/docs" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/laravel.svg" alt="Laravel" width="40" height="40" style="filter: invert(1)"/>
-  </a>
-  <a href="https://dev.mysql.com/doc/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/doc" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://ubuntu.com/tutorials" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
-  </a>
-</p>
+I enjoy understanding how systems work internally — from APIs and databases to servers and networks — and I constantly experiment with real-world environments to strengthen my practical skills.
 
 ---
 
-## 🔧 Proyectos Destacados
+## 🛠️ Tech Stack
 
-- **Axioma POS**  
-  Desarrollo backend en Laravel de un sistema punto de venta, construyendo API REST para manejar productos, imágenes y datos en tiempo real con eficiencia y escalabilidad.
+### Backend & Databases
+- PHP (Laravel)
+- MySQL
+- REST APIs
+- MVC Architecture
+- Clean Code & Best Practices
 
-- **Servidor Casero**  
-  Montaje y configuración de servidor en PC reciclada, replicando entornos de producción para practicar despliegue, seguridad y administración.
+### Systems, DevOps & Networking
+- Ubuntu / Ubuntu Server
+- Docker
+- Home Server (Homelab)
+- Deployment basics
+- VPS, domains & subdomains fundamentals
+
+### Frontend (Functional Level)
+- Next.js
+- Vue.js
+- Tailwind CSS
+- Frontend ↔ Backend Integration
+
+### Version Control
+- Git
+- GitHub
 
 ---
 
-## 🎯 Objetivos Personales
+## 📌 Featured Projects
 
-- Profundizar en **ciberseguridad y redes** para crear infraestructuras seguras y eficientes.  
-- Seguir aprendiendo y mejorando como desarrollador backend y administrador de sistemas.
+### 🧾 Axioma POS
+**Laravel-based Point of Sale system**
+
+**What I do:**
+- Develop RESTful APIs
+- Manage users, roles, services, clinics, and employees
+- Handle image uploads and storage
+- Create seeders and factories
+- Structure routes and controllers
+- Prepare the backend for scalability and maintainability
 
 ---
 
-## 📚 Mi rutina de aprendizaje y vida
+### 🖥️ Home Server (Homelab)
+Personal server built using a **recycled PC** to simulate real production environments.
 
-Equilibro mis estudios, trabajo, entrenamientos físicos, tiempo para lectura y descanso, cuidando también mi salud mental con libros como *Psicología Oscura*.
+**Practicing:**
+- Linux server administration
+- Dockerized applications
+- Basic security concepts
+- Vulnerability testing (DVWA)
+- Self-hosted services
+- Networking and server management
 
 ---
+
+### 🌐 Web Projects
+- Websites built with **Next.js** and **Vue**
+- Maps, modals, forms, and SMTP integration
+- UX-focused functional designs
+- Institutional and personal projects
+
+---
+
+## 🎯 Goals
+
+- Become a **Backend & Systems Engineer**
+- Deepen knowledge in **cybersecurity and networking**
+- Design **secure and scalable infrastructures**
+- Master real-world deployments (Docker, VPS, CI/CD)
+
+---
+
+## 📚 Learning & Lifestyle
+
+I balance:
+- University studies
+- Backend development work
+- Physical training
+- Reading and personal growth
+
+I’m interested in mental discipline and self-improvement, with readings such as *Psicología Oscura*.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TorresAnndy&show_icons=true&theme=dark" alt="Andy GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TorresAnndy&show_icons=true&theme=dark" />
 </p>
 
 ---
 
-### Gracias por visitar mi perfil. ¡Vamos por más código, retos y aprendizaje! 🚀
+## 📫 Connect With Me
+
+- 💼 Backend Developer in progress
+- 🌱 Always learning
+- 🚀 Passionate about technology and problem-solving
+
+---
+
+⭐ *Thanks for visiting my profile. Let’s build something great.*
