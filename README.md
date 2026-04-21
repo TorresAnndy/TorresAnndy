@@ -17,7 +17,7 @@ I enjoy understanding how systems work internally — from APIs and databases to
 ## 🛠️ Tech Stack
 
 ### Backend & Databases
-- PHP (Laravel)
+- Laravel
 - MySQL
 - REST APIs
 - MVC Architecture
@@ -29,12 +29,6 @@ I enjoy understanding how systems work internally — from APIs and databases to
 - Home Server (Homelab)
 - Deployment basics
 - VPS, domains & subdomains fundamentals
-
-### Frontend (Functional Level)
-- Next.js
-- Vue.js
-- Tailwind CSS
-- Frontend ↔ Backend Integration
 
 ### Version Control
 - Git
