@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a **6th-semester Information Technology Engineering student** with a strong focus on **backend development**, **software architecture**, **networks**, and **cybersecurity**.
+I'm a **7th-semester Information Technology Engineering student** with a strong focus on **backend development**, **software architecture**, **networks**, and **cybersecurity**.
 
 Currently, I work as a **Junior Backend Developer** on **Axioma**, a **POS (Point of Sale) system** built with **PHP & Laravel**, where I contribute to building and maintaining a **robust and scalable REST API**.
 
