@@ -1,112 +1,73 @@
-# 👋 Hi, I'm Andy 👨‍💻
+# 👋 Hi, I'm Andy Javier Gonzales Torres 👨‍💻
 
-💡 *Backend Developer | IT Engineering Student | Networking & Cybersecurity Enthusiast*
+💡 *Backend Developer | IT Engineering Student | Linux & Systems Infrastructure*
 
 ---
 
 ## 🚀 About Me
 
-I'm a **7th-semester Information Technology Engineering student** with a strong focus on **backend development**, **software architecture**, **networks**, and **cybersecurity**.
+I'm an **Information Technology Engineering student (7th semester)** with a solid focus on **backend development**, **database architecture**, and **Linux server administration**. 
 
-Currently, I work as a **Junior Backend Developer** on **Axioma**, a **POS (Point of Sale) system** built with **PHP & Laravel**, where I contribute to building and maintaining a **robust and scalable REST API**.
-
-I enjoy understanding how systems work internally — from APIs and databases to servers and networks — and I constantly experiment with real-world environments to strengthen my practical skills.
+I specialize in building scalable logical architectures and robust APIs using **PHP and Laravel**. I enjoy managing everything that happens behind the scenes—from complex SQL query optimization to containerized environments and self-hosted infrastructure.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Backend & Databases
-- Laravel
-- MySQL
-- REST APIs
-- MVC Architecture
-- Clean Code & Best Practices
+- **Languages & Frameworks:** PHP, Laravel, REST APIs
+- **Databases & Cache:** MySQL, PostgreSQL, Redis, Advanced SQL Optimization
 
-### Systems, DevOps & Networking
-- Ubuntu / Ubuntu Server
-- Docker
-- Home Server (Homelab)
-- Deployment basics
-- VPS, domains & subdomains fundamentals
+### Systems, DevOps & Infrastructure
+- **Operating Systems:** Linux (Ubuntu Server / Ubuntu)
+- **Containerization:** Docker, Docker Compose
+- **Environments:** Self-hosting, Home Server (Homelab), VPS management, local network hosting
 
-### Version Control
-- Git
-- GitHub
+### Version Control & Tools
+- Git & GitHub
 
 ---
 
 ## 📌 Featured Projects
 
-### 🧾 Axioma POS
-**Laravel-based Point of Sale system**
+### 🧾 Axioma POS & Service Management
+*Advanced Backend Development*
+- Designed and built the logical architecture and core engine for a ticketing and point-of-sale SaaS.
+- Developed scalable RESTful APIs handling comprehensive module management (users, roles, clinics, and billing structures).
+- Implemented robust data handling, relational structures, advanced migrations, and query tuning in Laravel.
 
-**What I do:**
-- Develop RESTful APIs
-- Manage users, roles, services, clinics, and employees
-- Handle image uploads and storage
-- Create seeders and factories
-- Structure routes and controllers
-- Prepare the backend for scalability and maintainability
+### 🧰 ACARLabs (SaaS Hub)
+*Core Backend & API Engineering*
+- Developed core logic modules for a private healthcare SaaS environment managing clinical metrics, patients, scheduling, and structured data flow.
 
----
-
-### 🖥️ Home Server (Homelab)
-Personal server built using a **recycled PC** to simulate real production environments.
-
-**Practicing:**
-- Linux server administration
-- Dockerized applications
-- Basic security concepts
-- Vulnerability testing (DVWA)
-- Self-hosted services
-- Networking and server management
+### 🖥️ Self-Hosted Infrastructure Lab
+*DevOps & Server Administration*
+- Implemented isolated local development and testing services by containerizing instances with Docker and Docker Compose.
+- Managed and configured physical and cloud-based Linux nodes (Ubuntu Server) to simulate production environments.
 
 ---
 
-### 🌐 Web Projects
-- Websites built with **Next.js** and **Vue**
-- Maps, modals, forms, and SMTP integration
-- UX-focused functional designs
-- Institutional and personal projects
+## 🎯 Current Focus & Goals
 
----
-
-## 🎯 Goals
-
-- Become a **Backend & Systems Engineer**
-- Deepen knowledge in **cybersecurity and networking**
-- Design **secure and scalable infrastructures**
-- Master real-world deployments (Docker, VPS, CI/CD)
-
----
-
-## 📚 Learning & Lifestyle
-
-I balance:
-- University studies
-- Backend development work
-- Physical training
-- Reading and personal growth
-
-I’m interested in mental discipline and self-improvement, with readings such as *Psicología Oscura*.
+- **Backend & Systems Engineering:** Master microservices architecture and deep system optimization.
+- **Infrastructure:** Expand local architecture deployments using containerized orchestration and deployment pipelines.
+- **Academic Research:** Developing an undergraduate thesis focused on advanced anomaly detection models within REST API structures.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TorresAnndy&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TorresAnndy&show_icons=true&theme=dark" alt="Andy's GitHub Stats" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 Backend Developer in progress
-- 🌱 Always learning
-- 🚀 Passionate about technology and problem-solving
+- 📧 **Email:** andygonzales2003@gmail.com
+- 📱 **Phone:** 0988633917
+- 📍 **Location:** Esmeraldas, Ecuador
 
 ---
-
-⭐ *Thanks for visiting my profile. Let’s build something great.*
+⭐ *Focused on writing clean, maintainable code and managing solid systems.*
