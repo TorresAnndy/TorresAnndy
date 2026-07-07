@@ -55,12 +55,6 @@ I specialize in building scalable logical architectures and robust APIs using **
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TorresAnndy&show_icons=true&theme=dark" alt="Andy's GitHub Stats" />
-</p>
-
 ---
 
 ## 📫 Connect With Me
