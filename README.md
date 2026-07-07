@@ -55,8 +55,6 @@ I specialize in building scalable logical architectures and robust APIs using **
 
 ---
 
----
-
 ## 📫 Connect With Me
 
 - 📧 **Email:** andygonzales2003@gmail.com
